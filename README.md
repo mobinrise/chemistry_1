@@ -1,6 +1,6 @@
 # chemistry_1
 Begnning of new skill
-<bs>
+<br>
 first i learn step by step git from youtube 
-<bs>
+<br>
 Now I am applying these changes 
